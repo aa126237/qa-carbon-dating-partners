@@ -19,6 +19,8 @@ public class Carbon14DatingTest {
     */
 
     // #4 Build a test for the toString() method.
+
+    // test of toString method - Colton S.
     @Test
     public void testToString(){
         Carbon14Dating e = new Carbon14Dating(12);

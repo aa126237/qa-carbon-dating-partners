@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd140e79-3065-4aec-adf8-0d40ab683a65" name="Changes" comment="" />
+    <list default="true" id="fd140e79-3065-4aec-adf8-0d40ab683a65" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carbon14Starter/src/test/java/Carbon14DatingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Carbon14Starter/src/test/java/Carbon14DatingTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2SiE1S6Q20FjlNQlHWdnPBqQLKQ" />
   <component name="ProjectViewState">
@@ -16,7 +22,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Java/Carbon14Starter/Carbon14Starter/pom.xml",
+    "last_opened_file_path": "C:/Java/Carbon14Starter",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -29,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689620785436</updated>
       <workItem from="1689620786439" duration="42000" />
+      <workItem from="1689709051607" duration="64000" />
     </task>
     <servers />
   </component>
